@@ -1,0 +1,26 @@
+.repositoryList {
+    font-family: arial;
+    margin-left: 30px;
+}
+
+.loading {
+    padding: 100px 250px;
+}
+
+.repo-columns {
+    display: flex;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.name {
+    width: 210px;
+}
+
+.language {
+    width: 160px;
+}
+
+.tag {
+    width: 150px;
+}

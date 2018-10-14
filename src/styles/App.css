@@ -1,0 +1,14 @@
+.header {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    padding: 30px 0 30px 0;
+    color: #ffffff;
+    background-color: #700aff;
+    max-width: 1260px;
+}
+
+.columns {
+    display: flex;
+}

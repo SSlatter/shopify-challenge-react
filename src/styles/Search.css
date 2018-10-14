@@ -1,0 +1,16 @@
+.search {
+    margin: 30px 0 30px 30px;
+    width: 600px;
+}
+
+input {
+    height: 30px;
+    width: 380px;
+    margin-right: 5px;
+    padding: 0 15px 0 15px;
+}
+
+button {
+    height: 36px;
+    width: 120px;
+}

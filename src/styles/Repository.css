@@ -1,0 +1,35 @@
+.table-row {
+  display: flex;
+  width: 600px;
+  font-weight: normal;
+  padding-bottom: 5px;
+}
+
+.repo-name {
+  width: 205px;
+}
+
+.repo-language {
+  width: 155px;
+}
+
+.repo-tag {
+  width: 145px;
+}
+
+.repo-name, .repo-language, .repo-tag {
+  margin-right: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.repo-name:hover, .repo-language:hover, .repo-tag:hover {
+  white-space: normal;
+  overflow: visible;
+  word-break: break-all;
+}
+
+.repo-button {
+  width: 80px;
+}
